@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LearningGoogleAgenda</string>
+    <string name="facebook_app_id">284833365211945</string>
+
+    <string name="fb_login_protocol_scheme">fb284833365211945</string>
+
+</resources>

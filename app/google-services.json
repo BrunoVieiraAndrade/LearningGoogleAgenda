@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "453569754523",
+    "firebase_url": "https://vital-analogy-139817.firebaseio.com",
+    "project_id": "vital-analogy-139817",
+    "storage_bucket": "vital-analogy-139817.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453569754523:android:85cbccd964e9e62e",
+        "android_client_info": {
+          "package_name": "com.vuziq.learninggoogleagenda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453569754523-ehol7je4irp4u5c29j899d0o1cpbq3dh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vuziq.learninggoogleagenda",
+            "certificate_hash": "1776F3584CDA299DCE0D9F9EF551AB2D57BD6014"
+          }
+        },
+        {
+          "client_id": "453569754523-q5teerv6lv7sp8ijvn7ctk44uk00645i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH8jb2MtL6hiW9J-zWQHCOowYdhns7BKo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453569754523-q5teerv6lv7sp8ijvn7ctk44uk00645i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
